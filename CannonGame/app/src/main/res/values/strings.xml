@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Cannon Game</string>
+    <string name="help">Help</string>
+    <string name="about">About</string>
+
+    <string name="time_remaining_format">Time remaining: %d seconds</string>
+    <string name="score_format">Score: %d </string>
+</resources>
